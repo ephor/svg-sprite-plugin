@@ -5,8 +5,7 @@ var SVGSpriter = require('svg-sprite'),
     mkdirp = require('mkdirp'),
     fs = require('fs'),
     glob = require('glob'),
-    _ = require('lodash'),
-    watch = require('watch');
+    _ = require('lodash');
 
 
 function SVGSprites(options) {
