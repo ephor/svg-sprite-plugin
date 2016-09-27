@@ -6,7 +6,6 @@ Webpack plugin based on [Svg-sprite](http://jkphl.github.io/svg-sprite)
 
 ```
 npm i svg-sprite-plugin --save-dev
-
 ```
 
 ## Usage
