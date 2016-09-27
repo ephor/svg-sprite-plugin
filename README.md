@@ -2,7 +2,6 @@
 
 Webpack plugin based on [Svg-sprite](http://jkphl.github.io/svg-sprite)
 
-
 ## Usage
 
 ```
