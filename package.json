@@ -1,5 +1,5 @@
 {
-  "name": "svgsprite-loader",
+  "name": "webpack-svg-sprite-plugin",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
