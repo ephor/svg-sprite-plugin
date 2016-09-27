@@ -1,6 +1,13 @@
-# webpack-svg-sprite-plugin
+# svg-sprite-plugin
 
 Webpack plugin based on [Svg-sprite](http://jkphl.github.io/svg-sprite)
+
+## Installation
+
+```
+npm i svg-sprite-plugin --save-dev
+
+```
 
 ## Usage
 

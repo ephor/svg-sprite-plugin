@@ -1,6 +1,6 @@
 {
-  "name": "webpack-svg-sprite-plugin",
-  "version": "0.1.0",
+  "name": "svg-sprite-plugin",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
